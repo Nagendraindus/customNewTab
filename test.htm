@@ -386,14 +386,11 @@ function navigateSuggestions(event) {
     // Call the function to initially set the date and day
     updateDateAndDay();
 
-
-
-
-
-
         // Update suggestions on input change
-        document.getElementById("searchInput").addEventListener("input", updateSuggestions);
-
+     document.getElementById("searchInput").addEventListener("input", updateSuggestions);
+        // ATTENTION ⚠️
+        // LINE 395 TO 9762 ARE JUST LIST OF KEYWORDS FOR AUTO SUGGESTION OF THE SEARCH BAR
+        // ATTENTION ⚠️
         // Hardcoded suggestions (8000 items)
         var hardcodedSuggestions = [
         "software",
