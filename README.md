@@ -1,4 +1,4 @@
-Sure, here's  the description with instructions on how to set up the new tab page as the startup page in Chrome:
+ Here's  the description with instructions on how to set up the new tab page as the startup page in Chrome:
 
 ---
 
