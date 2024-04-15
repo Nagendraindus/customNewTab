@@ -33,6 +33,13 @@ This project is a customizable new tab page implemented using HTML, CSS, and Jav
 ### Screenshots:
 ![image](https://github.com/Nagendraindus/customNewTab/assets/130830080/1d10103d-1cdc-4070-a57e-8b75e10321f2)
 
+version--2:
+![image](https://github.com/Nagendraindus/customNewTab/assets/130830080/5ec2e7eb-1f00-423d-b1c5-58f8e5ef3bd0)
+
+![image](https://github.com/Nagendraindus/customNewTab/assets/130830080/c1a21845-e924-4488-8e14-58e7a7a6c5e7)
+
+
+
 
 
 ### License:
